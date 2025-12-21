@@ -60,9 +60,9 @@ This repository includes SQL scripts focused on:
 
 ## 🚀 How to Use
 
-Clone the repository:
-
-git clone https://github.com/your-username/sql-practice.git
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/hiitarun1/SQL.git
 
 Open files in any SQL editor (MySQL Workbench, pgAdmin, DBeaver, etc.)
 
