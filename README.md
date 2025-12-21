@@ -51,7 +51,7 @@ This repository includes SQL scripts focused on:
 
 - Scalar subqueries
 - Correlated subqueries
-- 
+
 ## 🎯 Purpose of This Repository
 
 - Practice SQL concepts in a structured way
