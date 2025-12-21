@@ -11,7 +11,6 @@ This repository includes SQL scripts focused on:
 - ALTER
 - DROP
 - TRUNCATE
-
 - Table constraints (PRIMARY KEY, FOREIGN KEY, UNIQUE, CHECK, NOT NULL)
 
 ## 🧾 Data Manipulation Language (DML)
